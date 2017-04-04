@@ -16,20 +16,28 @@ function makeStory() {
     var adjective4 = document.getElementById('adjective4').value;
     var number1 = document.getElementById('number1').value;
     var number2 = document.getElementById('number2').value;
-    var adverb1 = document.getElementById('adverb1').value;
     var body_part1 = document.getElementById('body_part1').value;
 
 
     // Set title of story. Use at least one form value in the title. (2 points)
-    var title = "Vacations";
+    var title = "Celebrate";
 
 
     // Build story. you can add as many paragraphs as you like. (3 points)
-    var paragraph1 = "Friends, this is a surprise party for" + Female;
+    var paragraph1 = "Friends, this is a surprise party for" + female_name1 + "we are here to celebrate her" + noun1 +
+                     "All of her most" + adjective1 + "friends are here, including me, her devoted and faithful" + noun2 +
+                     ". I must say that she doesn't look a day over" + number1 + ". Naturally, we have some" + adjective2 +
+                     "presents for her." + male_name1 + "bought her some beautidul copper" + noun3 +
+                     "that she can wear on her lovely" + body_part1 + ". And our hostess got her a dozen" + plural_noun1 +
+                     "that she can hang in her" + noun4 + ". And we had the bakery send up a huge" + adjective3 + noun5 +
+                     "with" + number2 + "candles on it. We all want to wish her a very" + adjective4 + "birthday and many happy" +
+                     plural_noun2 + ". Now, let's all sing together: Happy" + noun6 + "day to you!" ;
 
 
 
     // Display story by putting title & paragraphs into appropriate divs. (3 points)
+document.getElementById('title').innerHTML = title;
+document.getElementById('one').innerHTML = paragraph1;
 
 
 }
