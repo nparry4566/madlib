@@ -30,8 +30,8 @@ function makeStory() {
                      " presents for her. " + male_name1 + " bought her some beautidul copper " + noun3 +
                      " that she can wear on her lovely " + body_part1 + ".  And our hostess got her a dozen " + plural_noun1 +
                      " that she can hang in her " + noun4 + ".  And we had the bakery send up a huge " + adjective3 + noun5 +
-                     "with " + number2 + " candles on it. We all want to wish her a very " + adjective4 + " birthday and many happy " +
-                     plural_noun2 + ".  Now, let's all sing together: Happy " + noun6 + "day to you!" ;
+                     " with " + number2 + " candles on it. We all want to wish her a very " + adjective4 + " birthday and many happy " +
+                     plural_noun2 + ".  Now, let's all sing together: Happy " + noun6 + " day to you!" ;
 
 
 
