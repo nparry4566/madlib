@@ -27,7 +27,7 @@ function makeStory() {
     var paragraph1 = "Friends, this is a surprise party for " + female_name1 + " we are here to celebrate her " + noun1 +
                      ".  All of her most " + adjective1 + " friends are here, including me, her devoted and faithful " + noun2 +
                      ".  I must say that she doesn't look a day over " + number1 + ".  Naturally, we have some " + adjective2 +
-                     "presents for her. " + male_name1 + " bought her some beautidul copper " + noun3 +
+                     " presents for her. " + male_name1 + " bought her some beautidul copper " + noun3 +
                      " that she can wear on her lovely " + body_part1 + ".  And our hostess got her a dozen " + plural_noun1 +
                      " that she can hang in her " + noun4 + ".  And we had the bakery send up a huge " + adjective3 + noun5 +
                      "with " + number2 + " candles on it. We all want to wish her a very " + adjective4 + " birthday and many happy " +
